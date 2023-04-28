@@ -42,7 +42,7 @@ function Home() {
               Protected payments, every time
             </div>
             <p>
-              Always know what you'll pay upfront. Your payment isn't released
+              Always know what you&apos;ll pay upfront. Your payment isn&apos;t released
               until you approve the work.
             </p>
             <div className="title">
